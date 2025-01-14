@@ -6,10 +6,10 @@ export const Roupa = () => {
   return (
     <section className={roupa}>
       <div className={sueter}>
-        <img src={Sueter} alt="" />
+        <img src={Sueter} alt="Sueter" />
       </div>
       <div className={cachecol}>
-        <img src={Cachecol} alt="" />
+        <img src={Cachecol} alt="Cachecol" />
       </div>
     </section>
   )
