@@ -1,0 +1,23 @@
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #8B1414;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+
+  @media (min-width: 320px) and (max-width: 768px) {
+    background-color: #43664e;
+    color: #000;
+  }
+}

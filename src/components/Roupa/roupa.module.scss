@@ -1,0 +1,33 @@
+.roupa {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: end;
+  z-index: -1;
+  height: 15vh;
+}
+
+.sueter {
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  position: relative;
+
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.cachecol {
+  width: 15vh;
+  z-index: 1;
+  position: absolute;
+  top: 62vh;
+
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
