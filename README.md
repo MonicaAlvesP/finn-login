@@ -1,8 +1,29 @@
-# React + Vite
+# 🐧 A Aventura Vai Começar!!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Bem-vindo ao mundo da criatividade e código** Este projeto é uma simples **tela de login** estilizada com o Finn, de "Hora de Aventura", como plano de fundo. Criado com sass, seguindo tutorial da rainha do CSS  [Natalia F.Dev](https://github.com/natalia-fs).
 
-Currently, two official plugins are available:
+[Tutorial desenhando o Finn](https://www.youtube.com/watch?v=vZmWub9YVo4) no canal da Nat.🔥🔥
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias Utilizadas
+
+- **React**
+- **Sass**
+
+## ⚒️ Como Começar
+1. Abra seu terminal e digite os seguintes códigos abaixo.
+
+2. Para clonar o repositório:
+  ```bash
+  git clone https://github.com/MonicaAlvesP/finn-login.git
+  ```
+3. Instalar as dependências:
+  ```bash
+  cd login-finn
+  npm install
+  ```
+4. Iniciar o servidor:
+  ```bash
+  npm run dev
+  ```
+
+Feito com ❤️ por <a href="https://github.com/MonicaAlvesP">MA</a>.
